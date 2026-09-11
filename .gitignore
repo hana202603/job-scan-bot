@@ -6,3 +6,4 @@ run.log
 *.csv
 *.xlsx
 config/profile.md.bak
+.DS_Store
