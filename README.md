@@ -19,12 +19,7 @@ Greenhouse/Lever/Ashby/SmartRecruiters 各自的公开API，属于官方支持�
 
 ## 效果预览
 
-> 建议在这里放一张你自己 Notion 数据库的截图（跑起来之后，随便截一张有几条记录、能看到
-> Match Score / Recommendation / Resume Tips 这些字段的图，拖进这段位置替换掉这行说明文字）：
->
 > `![Notion看板截图](docs/notion-preview.png)`
->
-> 截图放到仓库里的 `docs/` 文件夹下（自己新建这个文件夹），再把上面这行的路径改成实际文件名即可。
 
 ## 前置准备
 
