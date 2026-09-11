@@ -19,7 +19,7 @@ Greenhouse/Lever/Ashby/SmartRecruiters 各自的公开API，属于官方支持�
 
 ## 效果预览
 
-> `![Notion看板截图](docs/notion-preview.png)`
+`![Notion看板截图](docs/notion-preview.png)`
 
 ## 前置准备
 
